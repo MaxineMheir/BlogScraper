@@ -1,4 +1,4 @@
 # BlogScraper
 Blog scrapper for Scoop it to export data into an excel sheet
 
-This is done for FMCS
+This is a project for FMCS to export his blog entries from its [Scoop.it](http://blog.fmcs.digital/) to an excel dataBase 
